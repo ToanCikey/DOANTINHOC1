@@ -1,0 +1,19 @@
+2
+1
+toan a1
+2
+2
+nguyen cong tri
+nam
+1111
+1
+nguyen van toan
+nam
+1111
+2
+toan a2
+1
+3
+nguyen anh du thuong
+nu
+3333
